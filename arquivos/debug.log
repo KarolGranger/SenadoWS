@@ -1,0 +1,4 @@
+[1204/213617.893:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name prod, discarding value OperaDesktop
+[1204/213617.894:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ver, discarding value 59.0.3160.0
+[1204/213617.895:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name channel, discarding value developer
+[1204/213617.895:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value browser
